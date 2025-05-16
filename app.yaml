@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: 250517_astro
+owner: baalimago
+package: .
